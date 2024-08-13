@@ -1,0 +1,8 @@
+Energy Input
+Energy
+Solar 1000
+Wind 300
+Hydro 600
+Oil 500
+Electricity 1800 
+Fuel 500 

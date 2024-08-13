@@ -1,0 +1,10 @@
+Category            
+Rent         
+Groceries 72
+Utilities 200
+Insurance 30
+Entertainment 100
+Transport 57
+Health & Wellness 81
+living 120
+Miscellaneous 85
